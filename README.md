@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 
 ### Run the file:
-chainlit run main.py
+chainlit run app.py
 
 
 ### In .env file add your own api
